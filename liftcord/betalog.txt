@@ -1,0 +1,1 @@
+print(f"\033[31mI \033[33m{ghda} \033[32mliftcord.client \033[36mLogging In using static token")
